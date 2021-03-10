@@ -3,12 +3,13 @@ package main
 import (
 	"fmt"
 	"net/http"
-
+	"html"
 	"html/template"
 	"database/sql"
 	"os"
 	"log"
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/gorilla/mux"
 )
 
 func helloWorld(w http.ResponseWriter, r *http.Request) {
@@ -49,11 +50,22 @@ func firstNames(w http.ResponseWriter, r *http.Request) {
     
 }
 
+func ArticlesCategoryHandler(w http.ResponseWriter, r *http.Request) {
+    vars := mux.Vars(r)
+    w.WriteHeader(http.StatusOK)
+    fmt.Fprintf(w, "Category: %v\n", vars["id"])
+}
+
 func main() {
+	r := mux.NewRouter()
 
-
-	http.HandleFunc("/", helloWorld)
-	http.HandleFunc("/firstnames", firstNames)
+	r.HandleFunc("/", helloWorld)
+	r.HandleFunc("/firstnames", firstNames)
+	r.HandleFunc("/bar", func(w http.ResponseWriter, r *http.Request) {
+		fmt.Fprintf(w, "Hello, %q", html.EscapeString(r.URL.Path))
+	})
+	r.HandleFunc("/articles/{id:[1-8]}/", ArticlesCategoryHandler)
+	http.Handle("/", r)
 	http.ListenAndServe(":8080", nil)
 }
 
