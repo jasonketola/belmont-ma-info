@@ -1,36 +1,42 @@
 package main
 
 import (
-	"fmt"
+//	"fmt"
 	"net/http"
-	"html"
+//	"html"
 	"html/template"
 	"database/sql"
-	"os"
+//	"os"
 	"log"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/gorilla/mux"
 )
 
-func helloWorld(w http.ResponseWriter, r *http.Request) {
-	name, err := os.Getwd()
-	checkErr(err)
-	fmt.Fprintf(w, "HOSTNAME : %s\n", name)
+type Candidate struct {
+	Precinct, First, Middle, Last, Streetnum, Streetname, Unitnum, Yearsserved, Reelection string
 }
 
+type BallotPrecinctData struct {
+	PrecinctNumber string
+	Candidates []Candidate
+}
 
-func firstNames(w http.ResponseWriter, r *http.Request) {
+func BallotPrecinctHandler(w http.ResponseWriter, r *http.Request) {
+    vars := mux.Vars(r)
+    w.WriteHeader(http.StatusOK)
 	tmpl := template.Must(template.ParseFiles("layout.html"))
 
 	db, err := sql.Open("sqlite3", "../../sqlite/tmm.db")
 	checkErr(err)
 
-	rows, err := db.Query("SELECT * FROM years_served where \"Seeking Re-election 2021.04.06\" = 'TRUE'")
+	precinct_num := vars["id"]
+	rows, err := db.Query("SELECT * FROM years_served where \"Seeking Re-election 2021.04.06\" = 'TRUE' and \"Precinct\" =" + precinct_num)
 
 	var precinct, first, middle, last, streetnum, streetname, unitnum, yearsserved, reelection string
 	
-	var data []string
-	
+
+	candidate := Candidate{}
+	candidates := []Candidate{}
 
 	defer rows.Close()
 	for rows.Next() {
@@ -38,33 +44,37 @@ func firstNames(w http.ResponseWriter, r *http.Request) {
 		if err != nil {
 			log.Fatal(err)
 		}
-		log.Println(precinct, first, middle, last, streetnum, streetname, unitnum, yearsserved, reelection)
-		data = append(data, first)
+
+
+
+		candidate.Precinct = precinct
+		candidate.First = first
+		candidate.Middle = middle
+		candidate.Last = last
+		candidate.Streetnum = streetnum
+		candidate.Streetname = streetname
+		candidate.Unitnum = unitnum
+		candidate.Yearsserved = yearsserved
+		candidate.Reelection = reelection
+		candidates = append(candidates, candidate)
 	}
 	err = rows.Err()
 	if err != nil {
 		log.Fatal(err)
 	}
 
-        tmpl.Execute(w, data)
-    
-}
+	data := BallotPrecinctData{
+		PrecinctNumber: precinct_num,
+		Candidates: candidates,
+	}
 
-func ArticlesCategoryHandler(w http.ResponseWriter, r *http.Request) {
-    vars := mux.Vars(r)
-    w.WriteHeader(http.StatusOK)
-    fmt.Fprintf(w, "Category: %v\n", vars["id"])
+    tmpl.Execute(w, data)
 }
 
 func main() {
 	r := mux.NewRouter()
 
-	r.HandleFunc("/", helloWorld)
-	r.HandleFunc("/firstnames", firstNames)
-	r.HandleFunc("/bar", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "Hello, %q", html.EscapeString(r.URL.Path))
-	})
-	r.HandleFunc("/articles/{id:[1-8]}/", ArticlesCategoryHandler)
+	r.HandleFunc("/ballot/precinct/{id:[1-8]}", BallotPrecinctHandler)
 	http.Handle("/", r)
 	http.ListenAndServe(":8080", nil)
 }
