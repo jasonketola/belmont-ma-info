@@ -1,0 +1,16 @@
+<h1>Precinct {{.PrecinctNumber}} information</h1>
+<h2>Representatives</h2>
+<table border="1">
+    <tr>
+      <td>Name</td>
+      <td>Address</td>
+      <td>Years Served</td>
+    </tr>
+    {{range .Candidates}}
+    <tr>
+        <td>{{.First}} {{.Middle}} {{.Last}}</td>
+        <td>{{.Streetnum}} {{.Streetname}} {{.Unitnum}}</td>
+        <td>{{.Yearsserved}}</td>
+    </tr>
+    {{end}}
+</table>
