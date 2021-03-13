@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2021.05.12tmmcampaign/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <loc>/tags/about/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/future-plans-for-this-site/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plans/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/website/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about-me-and-why-im-running/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,21 +54,6 @@
   
   <url>
     <loc>/tags/campaign/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
