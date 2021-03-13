@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Belmont-MA.info"
 theme = "ghostwriter"
-googleAnalytics = "G-YZRW61Y595"
+googleAnalytics = "UA-192087749-1"
 
 [Params]
     mainSections = ["post"]
