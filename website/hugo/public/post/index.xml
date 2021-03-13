@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Belmont-MA.info</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Belmont-MA.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me and why I&#39;m running</title>
+      <link>/2021.05.12tmmcampaign/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021.05.12tmmcampaign/</guid>
+      <description>About me I’ve lived in Belmont for two years with my wife and now with our young daughter. I’m COO at MaxMind, a tech company headquartered in Waltham. My family and I very much enjoy the town, its parks, stores, the library, access to public transit, and the people we’ve met.
+Why I&amp;rsquo;m seeking nomination I want to hold the town accountable for how it spends our tax money, and I want to ensure the services we receive in return run well and make sense.</description>
+    </item>
+    
+  </channel>
+</rss>

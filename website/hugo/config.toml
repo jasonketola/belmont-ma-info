@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Belmont-MA.info"
+theme = "ghostwriter"
+googleAnalytics = "G-YZRW61Y595"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Information and analysis about Belmont, MA"
+    description = "Jason Ketola - Running for Town Meeting, Precinct 3"
+    github = "https://github.com/jasonketola"
+    email = "jasonketola@gmail.com"
+    opengraph = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
