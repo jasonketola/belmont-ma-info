@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Belmont-MA.info</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Belmont-MA.info</description>
+    <title>taxes on Belmont-MA.info</title>
+    <link>/categories/taxes/</link>
+    <description>Recent content in taxes on Belmont-MA.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/taxes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,25 +30,6 @@ The Structural Change Impact Group has had lobbying the state to change this law
       
       <guid>/understanding-property-taxes-and-assessments/</guid>
       <description>If, like me, you&amp;rsquo;ve ever been frustrated or confused by Belmont&amp;rsquo;s assessments or property taxes (e.g., why do they go up in Q3?) , I highly recommend watching this presesentation by the Board of Assessors to the Warrant Committee and the associated Q&amp;amp;A. It starts just before the two minute mark. I found it to be incredibly helpful and I learned a lot, especially from the Q&amp;amp;A.</description>
-    </item>
-    
-    <item>
-      <title>Future plans for this site</title>
-      <link>/future-plans-for-this-site/</link>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/future-plans-for-this-site/</guid>
-      <description>The plans  Whether I&amp;rsquo;m elected or not, I plan to release on this site an application that makes it easier to compare the voting records of our town meeting members. This is in the works. The town makes data available publicly, but the data is not consistent and there&amp;rsquo;s a lot of clean up to do before one can work with it. I also plan to share write-ups of information I&amp;rsquo;ve collected and my associated thoughts on issues related to the town (e.</description>
-    </item>
-    
-    <item>
-      <title>About me and why I&#39;m running</title>
-      <link>/about-me-and-why-im-running/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/about-me-and-why-im-running/</guid>
-      <description>I&amp;rsquo;m running for Town Meeting to represent Precinct 3 About me I’ve lived in Belmont for two years with my wife and now with our young daughter. I’m COO at MaxMind, a tech company headquartered in Waltham. My family and I very much enjoy the town, its parks, stores, the library, access to public transit, and the people we’ve met.
-Why I&amp;rsquo;m seeking nomination I want to hold the town accountable for how it spends our tax money, and I want to ensure the services we receive in return run well and make sense.</description>
     </item>
     
   </channel>

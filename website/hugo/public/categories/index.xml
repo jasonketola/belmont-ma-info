@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Belmont-MA.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>revenue</title>
+      <link>/categories/revenue/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/revenue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taxes</title>
+      <link>/categories/taxes/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/taxes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>website</title>
