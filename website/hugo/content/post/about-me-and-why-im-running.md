@@ -40,4 +40,4 @@ The Town Meeting approves the budget, certain expenses, and by-law changes, and 
 * Whether I'm elected or not, I plan to release on this site an application that makes it easier to compare the voting records of our town meeting members.
 * I also plan to share write-ups of information I've collected and my associated thoughts on issues related to the town (e.g., items related to the DPW yard, financial calculations).
 
-Please contact me to talk about Precinct 3 and town issues! My email address is jasonketola AT gmail DOT com.
+Please contact me to talk about Precinct 3 and town issues! My email address is jason@belmont-ma.info.
