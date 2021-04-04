@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>assessments on Belmont-MA.info</title>
-    <link>/tags/assessments/</link>
-    <description>Recent content in assessments on Belmont-MA.info</description>
+    <title>analysis on Belmont-MA.info</title>
+    <link>/categories/analysis/</link>
+    <description>Recent content in analysis on Belmont-MA.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/assessments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/preliminary-assessment-analysis/</guid>
       <description>Key takeaways  Many of us have wondered if assessments are increasing for everyone. About 26% of residential properties saw decreases in their assessed values between FY2020 and FY2021. (I&amp;rsquo;m defining residential properties as single families, condos, 2 and 3 families.) Many of us have also wondered about how assessments have changed for local apartment buildings. Some of them saw big decreases between FY2020 and FY2021. Finally, many of us have wondered about assessment changes for the local country club.</description>
-    </item>
-    
-    <item>
-      <title>Understanding property taxes and assessments</title>
-      <link>/understanding-property-taxes-and-assessments/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/understanding-property-taxes-and-assessments/</guid>
-      <description>If, like me, you&amp;rsquo;ve ever been frustrated or confused by Belmont&amp;rsquo;s assessments or property taxes (e.g., why do they go up in Q3?) , I highly recommend watching this presesentation by the Board of Assessors to the Warrant Committee and the associated Q&amp;amp;A. It starts just before the two minute mark. I found it to be incredibly helpful and I learned a lot, especially from the Q&amp;amp;A.</description>
     </item>
     
   </channel>

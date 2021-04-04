@@ -27,7 +27,8 @@ I don't have any guess right now as to why the assessed values of some of the ap
 This page includes a preliminary analysis of [FY2020 and FY2021 (hereafter, FY20 and FY21) property assessment data](https://www.belmont-ma.gov/assessors-office/pages/assessment-reports-for-fiscal-years-2011-thru-2021). There are some limitations on the data, described below.
 
 Given the data limitations, you might wonder why I'm sharing this analysis now. I give the following reasons:
-* **I'm running for Town Meeting Member in Precinct 3 and want to get my name out there.**
+
+* **I'm running for Town Meeting Member in Precinct 3 and want to get my name (Jason Ketola) out there.** [You can learn about me here]({{< relref "about-me-and-why-im-running.md" >}}). I'd be honored by your vote.
 * The dataset is mostly complete and still is interesting.
 * I'm interested to hear questions others would like me to look into and also to hear from any interested collaborators. I'm at jason@belmont-ma.info.
 
