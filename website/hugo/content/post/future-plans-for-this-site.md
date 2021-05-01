@@ -9,7 +9,6 @@ date = "2021-03-13"
 categories = [
     "website",
 ]
-menu = "main"
 +++
 
 ## The plans

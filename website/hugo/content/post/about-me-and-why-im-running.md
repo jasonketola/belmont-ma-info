@@ -9,7 +9,6 @@ date = "2021-03-12"
 categories = [
     "Campaign",
 ]
-menu = "main"
 +++
 
 ## I'm running for Town Meeting to represent Precinct 3
