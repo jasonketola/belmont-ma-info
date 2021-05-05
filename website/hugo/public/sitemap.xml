@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/amendment/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/articles/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/town-meeting/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/town-meeting/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/withdrawing-article-10-amendment/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article-10-amendment/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/analysis/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -18,32 +68,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/data/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/preliminary-assessment-analysis/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,11 +149,6 @@
   
   <url>
     <loc>/tags/campaign/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/town-meeting/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
