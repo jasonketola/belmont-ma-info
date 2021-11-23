@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parking on Belmont-MA.info</title>
+    <link>/tags/parking/</link>
+    <description>Recent content in parking on Belmont-MA.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/parking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thinking out loud about overnight parking</title>
+      <link>/thinking-out-loud-about-overnight-parking/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/thinking-out-loud-about-overnight-parking/</guid>
+      <description>Context At the October 13 Diversity Task Force meeting, the idea of removing the overnight parking ban was floated as a way to address a racial and economic equity issue in town. I thought about the issue for several days, and collected my thoughts into an email which I sent to a few of the attendees on October 22. I&amp;rsquo;m sharing the body of that email so you can get a sense of my thinking on this issue.</description>
+    </item>
+    
+  </channel>
+</rss>
