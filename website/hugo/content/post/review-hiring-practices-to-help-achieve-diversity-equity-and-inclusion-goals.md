@@ -15,6 +15,8 @@ categories = [
 
 I've sent the letter below to a few of the different town publications in the hope that it will get published.
 
+Update (2021.11.23): The [commentary](https://www.wickedlocal.com/story/belmont-citizen-herald/2021/11/15/review-hiring-practices-help-achieve-dei-goals/6281816001/) ran in the Belmont Citizen-Herald.
+
 ## Review hiring practices to help achieve diversity, equity, and inclusion goals
 
 This past summer, I had the privilege of serving on the screening committee for Belmont Public Schools’ Director of Diversity, Equity, and Inclusion. The experience caused me to reflect on how important hiring practices are to achieving DEI-related goals. I would like to share four strategies for making hiring more inclusive that I have learned over time and have seen work to good effect.
