@@ -6,11 +6,7 @@
     <description>Recent content in about on Belmont-MA.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future plans for this site</title>
       <link>/future-plans-for-this-site/</link>

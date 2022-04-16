@@ -6,10 +6,24 @@
     <description>Recent content in Tags on Belmont-MA.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hiring</title>
+      <link>/tags/hiring/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hiring/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>inclusivity</title>
+      <link>/tags/inclusivity/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inclusivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>appointment</title>
@@ -44,24 +58,6 @@
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/equity-audit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hiring</title>
-      <link>/tags/hiring/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hiring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inclusivity</title>
-      <link>/tags/inclusivity/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/inclusivity/</guid>
       <description></description>
     </item>
     

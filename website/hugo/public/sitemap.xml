@@ -1,230 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/tags/appointment/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/appointment-to-solid-waste-and-recycling-committee/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/belmont-public-schools/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/eliminate-unnecessary-credentials-in-hiring/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hiring/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inclusivity/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/website/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/appointment/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/appointment-to-solid-waste-and-recycling-committee/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/belmont-public-schools/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/committee/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/equity-audit/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hiring/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/inclusivity/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/parking/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/review-hiring-practices-to-help-achieve-diversity-equity-and-inclusion-goals/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/schools/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/thinking-out-loud/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/thinking-out-loud-about-overnight-parking/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/thinking-out-loud-about-the-bps-equity-audit/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/website/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/amendment/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/articles/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/town-meeting/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/town-meeting/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/withdrawing-article-10-amendment/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article-10-amendment/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/analysis/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/analysis/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/assessments/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/preliminary-assessment-analysis/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/property-tax/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/raising-revenue-and-saving-golf-course-and-saving/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/revenue/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/revenue/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/savings/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/taxes/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/taxes/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/understanding-property-taxes-and-assessments/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/about/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/future-plans-for-this-site/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/plans/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about-me-and-why-im-running/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/campaign/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/campaign/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/</loc>
-    <lastmod>2020-03-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/page/privacy-policy/</loc>
-    <lastmod>2020-03-18T00:00:00-04:00</lastmod>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
