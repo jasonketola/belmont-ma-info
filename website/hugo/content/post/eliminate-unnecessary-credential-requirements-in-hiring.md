@@ -1,5 +1,5 @@
 +++
-title = "Eliminate unnecessary credentials in hiring"
+title = "Eliminate unnecessary credential requirements in hiring"
 description = ""
 tags = [
     "hiring",

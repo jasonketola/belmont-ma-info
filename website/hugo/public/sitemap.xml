@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/a-few-thoughts-on-the-bps-equity-audit/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bps/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/housing/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
+    <loc>/tags/equity/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/website/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/housing/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/potential-for-multifamily-zoning/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/website/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/zoning/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/eliminate-unnecessary-credentials-in-hiring/</loc>
+    <loc>/eliminate-unnecessary-credential-requirements-in-hiring/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/hiring/</loc>
