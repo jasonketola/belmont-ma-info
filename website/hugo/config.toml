@@ -14,6 +14,7 @@ googleAnalytics = "UA-192087749-1"
     opengraph = true
     rss = true
     dateFormat = "Mon, Jan 2, 2006"
+    author = "Jason"
 
 [Permalinks]
     post = "/:filename/"
