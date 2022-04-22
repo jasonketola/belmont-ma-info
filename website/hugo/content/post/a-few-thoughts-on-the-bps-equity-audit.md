@@ -23,7 +23,7 @@ The audit covered a lot of ground and brought to light a number of terribly trou
 
 It's surprising that BPS hasn't been more attentive to these and other issues given how much the administration and school committee have talked about the importance of DEI.
 
-This connects to my primary frustrations with the audit, which is that BPS didn't seem to support it very well:
+This connects to my primary frustration with the audit, which is that BPS didn't seem to support it very well:
 
 * BPS only provided some of [the information requested by auditors](https://www.belmont.k12.ma.us/bps/Portals/0/docs/scpublicdocuments/2021-22/SPED_Manual_Audit_Presentation_11_23.pdf) in connection with their audit of special education. The additional information requested would certainly have helped the auditors assess bias in identifiation of SpEd students. This is [a concern]({{< ref "thinking-out-loud-about-the-bps-equity-audit" >}} "Thinking out loud about the BPS equity audit") I previously wrote about.
 * BPS permitted the use of Google Translate to translate the school climate survey administered in the middle school at least. Google Translate is fine for getting the gist of what something is talking about but certainly is not appropriate for creating valid translations and cultural adaptations of survey instruments on the fly.
