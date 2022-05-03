@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/a-few-thoughts-on-the-bps-equity-audit/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/demolition-delay/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/my-opposition-to-the-demolition-delay-bylaw-amendment/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/town-meeting/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/website/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/a-few-thoughts-on-the-bps-equity-audit/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/bps/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/equity/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/website/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/housing/</loc>
@@ -81,9 +90,6 @@
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/articles/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/town-meeting/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/town-meeting/</loc>
